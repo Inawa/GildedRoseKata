@@ -27,9 +27,5 @@ public class ApproveTest {
                 new String[] {"foo", "Aged Brie", "Backstage passes to a TAFKAL80ETC concert", "Sulfuras, Hand of Ragnaros"},
                 new Integer[] { -1, 0, 20},
                 new Integer[] { 0, 1, 49, 60 });
-
-//        new String[] { "foo", "Aged Brie", "Backstage passes to a TAFKAL80ETC concert", "Sulfuras, Hand of Ragnaros" },
-//            new Integer[] { -1, 0, 1, 5, 6, 10, 11 },
-//            new Integer[] { 0, 1, 49, 50 });
     }
 }
